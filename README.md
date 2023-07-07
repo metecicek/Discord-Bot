@@ -9,3 +9,5 @@ Embed & Auto Messages
 Ban & Kick (moderation) Prefix Commands
 
 Changing the status of the bot
+
+Member Counter
